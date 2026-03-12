@@ -1,4 +1,4 @@
 vless://5ff0b5ec-2b8e-4213-af04-bf9c09a430c0@234.10913.shop:36096?type=tcp&security=none#%E6%96%B0%E5%8A%A0%E5%9D%A11
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLkuJzkuqwxIiwKICAiYWRkIjogIjE3Mi4xMDQuMTA1LjgzIiwKICAicG9ydCI6IDQzMTMyLAogICJpZCI6ICI1YTUzMDgwNC02NTc1LTQ4NzQtOWMyMy00MzE3Mjk4NzQ4Y2MiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9
 vless://370440a7-bf21-444a-87f6-939eb85a24b3@172.104.105.83:34877?type=tcp&security=none#DJ2
-vless://d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a@matsus2026-ling-mat.hf.space:443?encryption=none&security=tls&type=ws&host=matsus2026-ling-mat.hf.space&path=%2f#HF-New-Node
+vless://d1e2f3a4-b5c6-4d7e-8f9a-0b1c2d3e4f5a@matsus2026-ling-mat.hf.space:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=matsus2026-ling-mat.hf.space&path=/&fp=chrome#HF-VLESS-Final
