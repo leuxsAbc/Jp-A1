@@ -1,4 +1,4 @@
 vless://5ff0b5ec-2b8e-4213-af04-bf9c09a430c0@234.10913.shop:36096?type=tcp&security=none#%E6%96%B0%E5%8A%A0%E5%9D%A11
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLkuJzkuqwxIiwKICAiYWRkIjogIjE3Mi4xMDQuMTA1LjgzIiwKICAicG9ydCI6IDQzMTMyLAogICJpZCI6ICI1YTUzMDgwNC02NTc1LTQ4NzQtOWMyMy00MzE3Mjk4NzQ4Y2MiLAogICJhaWQiOiAwLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIiIsCiAgInRscyI6ICJub25lIgp9
 vless://370440a7-bf21-444a-87f6-939eb85a24b3@172.104.105.83:34877?type=tcp&security=none#DJ2
-vless://550e8400-e29b-41d4-a716-446655440000@8080-firebase-tw-1773299015393.cluster-xpmcxs2fjnhg6xvn446ubtgpio.cloudworkstations.dev:443?encryption=none&security=tls&alpn=http%2F1.1&fp=chrome&type=xhttp&path=%2F&mode=auto#idx-xhttp
+vless://550e8400-e29b-41d4-a716-446655440000@8080-firebase-tw-1773301767562.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev:443?encryption=none&security=tls&type=ws&host=8080-firebase-tw-1773301767562.cluster-cd3bsnf6r5bemwki2bxljme5as.cloudworkstations.dev&path=%2f#Google-IDX-TW
